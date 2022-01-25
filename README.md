@@ -2,7 +2,8 @@
 
 - 🌱 Eu estou estudando: HTML, CSS e JS
 - 😄 Pronomes: ele/dele
-- ⚡ Curiosidade: Antes de querer ser programador eu queria ser engenheiro mecânico
+- 🧑‍💻 UFPR - Análise e Desenvolvimento de Sistemas <a target="_blank" href="https://www.tads.ufpr.br/mod/page/view.php?id=2">(ADS)</a>
+- ⚡ Curiosidade: Antes de ser programador eu queria ser engenheiro mecânico
 
 Desde criança apaixonado por tecnologia e inovação. Vejo a tecnologia como uma forma de ajudar milhares de pessoas ao redor do mundo.
 
