@@ -1,6 +1,6 @@
 ### Olá pessoas, sou o Matheus Kerscher | Developer Fron-End Junior👋
 
-- 🌱 Eu estou estudando: HTML, CSS e JS
+- 🌱 Eu estou estudando: HTML, CSS, JS Git e GitHub
 - 😄 Pronomes: ele/dele
 - 🧑‍💻 UFPR - Análise e Desenvolvimento de Sistemas (<a target="_blank" href="https://www.tads.ufpr.br/mod/page/view.php?id=2">TADS</a>)
 - ⚡ Curiosidade: Antes de ser programador eu queria ser engenheiro mecânico
