@@ -7,7 +7,11 @@
 
 Desde criança apaixonado por tecnologia e inovação. Vejo a tecnologia como uma forma de ajudar milhares de pessoas ao redor do mundo.
 
-Em outubro de 2020 tive o meu primeiro contato com o desenvolvimento Front-End — e foi amor à primeira vista; desse dia em diante decidi que é essa área que eu quero trabalhar. Estudo por conta própria: HTML, CSS e JavaScript. Desenvolvi alguns Websites que eram propostos como desafio por alguns canais do Youtube sobre programação e estou subindo eles aqui.
+Em outubro de 2020 tive o meu primeiro contato com o Desenvolvimento Front-End (foi amor à primeira vista). Estudo por conta própria: Angular, Bootstrap, C, CSS3, Git, HTML5, Java, JavaScript, SASS e TypeScript. No meu tempo livre gosto de fazer atividades físicas e realizar a leitura de livros sobre desenvolvimento pessoal.
+
+Sempre disposto a me conectar com novas pessoas para compartilhar e adquirir conhecimentos.
+
+
 
 ##
 
