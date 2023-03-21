@@ -1,7 +1,5 @@
 Seja bem-vindo(a) ao meu perfil!
 
-Que tal entrar em contato comigo e contar sobre as maiores dificuldades que você já encontrou na sua carreira em TI e como superou elas? Ou sobre os melhores projetos que você já atuou ao longo da sua carreira em TI?
-
 Estou disposto a ajudar você, sua equipe e sua empresa a continuarem batendo suas metas e estarem em crescimento constante.
 
 Atualmente, estudo os seguintes assuntos: 
