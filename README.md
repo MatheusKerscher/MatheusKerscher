@@ -5,7 +5,7 @@ Que tal entrar em contato comigo e contar sobre as maiores dificuldades que voc�
 Estou disposto a ajudar você, sua equipe e sua empresa a continuarem batendo suas metas e estarem em crescimento constante.
 
 Atualmente, estudo os seguintes assuntos: 
-- Desenvolvimento front end: HTML, CSS, JavaScript, TypeScript, SASS, Bootstrap e Angula;
+- Desenvolvimento front end: HTML, CSS, JavaScript, TypeScript, SASS, Bootstrap e Angular;
 - Desenvolvimento back end: MySQL, SQLServer, PostgreSQL e Java;
 - Metodologias de desenvolvimento ágil, como: Scrum e Kanban;
 - Git, GitLab e GitHub.
