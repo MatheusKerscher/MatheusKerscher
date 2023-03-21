@@ -19,9 +19,6 @@ Desde criança apaixonado por tecnologia e inovação. Vejo a tecnologia como um
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MatheusKerscher&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusKerscher&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-[![](https://visitcount.itsvg.in/api?id=MatheusKerscher&icon=2&color=8)](https://visitcount.itsvg.in)
 
 ![Snake animation](https://github.com/MatheusKerscher/MatheusKerscher/blob/output/github-contribution-grid-snake.svg)
 
