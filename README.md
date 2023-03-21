@@ -4,8 +4,6 @@ Minha história:
 
 O primeiro contanto com o desenvolvimento front end que tive foi no final do ensino médio, através de um curso fornecido pelo colégio em parceira com a Alura. 
 
-Tive a oportunidade de atuar como desenvolvedor front end júnior fazendo o uso de Angular como framework principal para solucionar os problemas e concretizar as ideias apresentadas pela empresa.
-
 Atualmente, estudo os seguintes assuntos: 
 
 - Desenvolvimento front end: HTML, CSS, JavaScript, TypeScript, SASS, Bootstrap e Angular;
