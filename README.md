@@ -18,8 +18,6 @@ Desde criança apaixonado por tecnologia e inovação. Vejo a tecnologia como um
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=MatheusKerscher&icon=2&color=8)](https://visitcount.itsvg.in)
-
 ![Snake animation](https://github.com/MatheusKerscher/MatheusKerscher/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
