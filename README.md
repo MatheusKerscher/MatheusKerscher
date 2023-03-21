@@ -14,7 +14,7 @@ Atualmente, estudo os seguintes assuntos:
 - Git, GitLab e GitHub.
 
 
-## 🌐 Como me encontrar:
+# 🌐 Como me encontrar:
 
 <div>
   <a href="https://www.instagram.com/matheuskerscher/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a> 
