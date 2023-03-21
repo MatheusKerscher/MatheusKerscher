@@ -1,6 +1,19 @@
-# 💫 Sobre mim:
+Seja bem-vindo(a) ao meu perfil!
 
-Desde criança apaixonado por tecnologia e inovação. Vejo a tecnologia como uma forma de ajudar milhares de pessoas ao redor do mundo.<br><br>Em outubro de 2020 tive o meu primeiro contato com o Desenvolvimento Front-End (foi amor à primeira vista). Estudo por conta própria: Angular, Bootstrap, C, CSS3, Git, HTML5, Java, JavaScript, SASS e TypeScript. No meu tempo livre gosto de fazer atividades físicas e realizar a leitura de livros sobre desenvolvimento pessoal.<br><br>Sempre disposto a me conectar com novas pessoas para compartilhar e adquirir conhecimentos.
+Que tal entrar em contato comigo e contar sobre as maiores dificuldades que você já encontrou na sua carreira em TI e como superou elas? Ou sobre os melhores projetos que você já atuou ao longo da sua carreira em TI?
+
+Estou disposto a ajudar você, sua equipe e sua empresa a continuarem batendo suas metas e estarem em crescimento constante.
+
+Atualmente, estudo os seguintes assuntos: 
+- Desenvolvimento front end: HTML, CSS, JavaScript, TypeScript, SASS, Bootstrap e Angula;
+- Desenvolvimento back end: MySQL, SQLServer, PostgreSQL e Java;
+- Metodologias de desenvolvimento ágil, como: Scrum e Kanban;
+- Git, GitLab e GitHub.
+
+Minha história:
+O primeiro contanto com o desenvolvimento front end que tive foi no final do ensino médio, através de um curso fornecido pelo colégio em parceira com a Alura. 
+
+Tive a oportunidade de atuar como desenvolvedor front end júnior fazendo o uso de Angular como framework principal para solucionar os problemas e concretizar as ideias apresentadas pela empresa.
 
 ## 🌐 Como me encontrar:
 
