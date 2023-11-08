@@ -8,7 +8,7 @@ O primeiro contanto com o desenvolvimento front end que tive foi no final do ens
 
 Atualmente, estudo os seguintes assuntos: 
 
-- Desenvolvimento front end: HTML, CSS, JavaScript, TypeScript, SASS, Bootstrap e Angular;
+- Desenvolvimento front end: HTML5, CSS3, JavaScript, TypeScript, SASS, Bootstrap e Angular;
 - Desenvolvimento back end: MySQL, SQLServer, PostgreSQL e Java;
 - Metodologias de desenvolvimento ágil, como: Scrum e Kanban;
 - Git, GitLab e GitHub.
