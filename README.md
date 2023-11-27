@@ -8,6 +8,7 @@
 - 🏦 Atualmente estou em busca de uma oportunidade como desenvolvedor
 
 <h2 align='left'>Como me encontrar</h2> 
+
 É possível me encontrar através desse [link](https://matheuskerscher.github.io/links/)
 
 
