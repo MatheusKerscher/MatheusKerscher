@@ -10,7 +10,7 @@
 <h2 align='left'>Como me encontrar</h2> 
 <p align="left">
 <a  href="https://matheuskerscher.github.io/links/" title="Meus Contatos">
-<img src="https://img.shields.io/badge/Meus_Contatos-000?style=for-the-badge&logo=ko-fi&logoColor=white&link=https://matheuskerscher.github.io/links/" alt="Meus Contatos"/></a>
+<img src="https://img.shields.io/badge/Meus_Contatos-fff?style=for-the-badge&logo=ko-fi&logoColor=black&link=https://matheuskerscher.github.io/links/" alt="Meus Contatos"/></a>
 
 
 
@@ -48,7 +48,6 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/matheus-kersche
 
 ## Estatísticas:
 <div align="center">
-  <img width="54%" src="https://github-readme-stats.vercel.app/api?username=MatheusKerscher&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusKerscher&layout=compact&langs_count=7&theme=tokyonight"/>
   <img height="190px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=MatheusKerscher&amp;theme=tokyonight"/>
 </div>
