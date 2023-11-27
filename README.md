@@ -1,34 +1,54 @@
-Seja bem-vindo(a) ao meu perfil!
+<h1> Hi there! Eu sou o Matheus👋 </h1><br>
 
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusKerscher&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## Seja bem-vindo ao meu portifólio no GitHub. 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-Minha história:
+- ⚡ Apaixonado por Esportes, Música e Tecnologia
+- 🎓 Cursando de Análise e Desenvolvimento de Sistemas na UFPR
+- 🏦 Atualmente estou em busca de uma oportunidade como desenvolvedor
 
-O primeiro contanto com o desenvolvimento front end que tive foi no final do ensino médio, através de um curso fornecido pelo colégio em parceira com a Alura. 
-
-Atualmente, estudo os seguintes assuntos: 
-
-- Desenvolvimento front end: HTML5, CSS3, JavaScript, TypeScript, SASS, Bootstrap e Angular;
-- Desenvolvimento back end: MySQL, SQLServer, PostgreSQL e Java;
-- Metodologias de desenvolvimento ágil, como: Scrum e Kanban;
-- Git, GitLab e GitHub.
+<h2 align='left'>Como me encontrar</h2> 
+<p align="left">
+<a  href="https://matheuskerscher.github.io/links/" title="Meus Contatos">
+<img src="https://img.shields.io/badge/Meus_Contatos-000?style=for-the-badge&logo=ko-fi&logoColor=white&link=https://matheuskerscher.github.io/links/" alt="Meus Contatos"/></a>
 
 
-# 🌐 Como me encontrar:
 
-<div>
-  <a href="https://www.instagram.com/matheuskerscher/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:matheuskerscher@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-kerscher" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+## Minhas staks:
+<div style="display:flex">
+  <img height="48px" width="48px" alt="Icone NestJS" src="https://skillicons.dev/icons?i=angular"/>
+  <img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>
+  <img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>
+    <img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=bootstrap"/>
+  <img height="48px" width="48px" alt="Icone html" src="https://skillicons.dev/icons?i=html"/>
+  <img height="48px" width="48px" alt="Icone css" src="https://skillicons.dev/icons?i=css"/>
+  <img height="48px" width="48px" alt="Icone css" src="https://skillicons.dev/icons?i=java"/>
+   <img height="48px" width="48px" alt="Icone css" src="https://skillicons.dev/icons?i=mysql"/>
 </div>
 
+## Ferramentas que uso:
+[<img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
+[<img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=gitlab"/>](https://gitlab.com/)
+[<img height="48px" width="48px" alt="Icone Git" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
+[<img height="48px" width="48px" alt="Icone Postman" src="https://skillicons.dev/icons?i=postman"/>](https://www.postman.com)
+[<img height="48px" width="48px" alt="Icone Postman" src="https://skillicons.dev/icons?i=idea"/>](https://www.jetbrains.com/pt-br/idea/)
 
-# 💻 Tecnologias e linguagens:
+## Experiência de trabalho
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+<img align="left" height="94px" width="94px" alt="Warpnet" src="https://vetorsistemas.com.br/assets/img/logo-vetor-site.svg"/>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
+**Desenvolvedor Front-End Junior** \
+[**Vetor Sistemas**] • Full-time \
+Fev de 2022 - Out 2022 \
+Linguagens & Tecnologias: `JavaScript`, `Angular`, `TypeScript`,
+<br/>
 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/matheus-kerscher/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+## Estatísticas:
+<div align="center">
+  <img width="54%" src="https://github-readme-stats.vercel.app/api?username=MatheusKerscher&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusKerscher&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="190px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=MatheusKerscher&amp;theme=tokyonight"/>
+</div>
