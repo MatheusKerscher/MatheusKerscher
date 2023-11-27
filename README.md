@@ -8,10 +8,7 @@
 - 🏦 Atualmente estou em busca de uma oportunidade como desenvolvedor
 
 <h2 align='left'>Como me encontrar</h2> 
-<p align="left">
-<a  href="https://matheuskerscher.github.io/links/" title="Meus Contatos">
-<img src="https://img.shields.io/badge/Meus_Contatos-fff?style=for-the-badge&logo=ko-fi&logoColor=black&link=https://matheuskerscher.github.io/links/" alt="Meus Contatos"/></a>
-
+É possível me encontrar através desse [link](https://matheuskerscher.github.io/links/)
 
 
 ## Minhas staks:
