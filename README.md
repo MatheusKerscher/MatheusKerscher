@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 - ⚡ Apaixonado por Esportes, Música e Tecnologia
-- 🎓 Cursando de Análise e Desenvolvimento de Sistemas na UFPR
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas pela UFPR
 - 🏦 Atualmente estou em busca de uma oportunidade como desenvolvedor
 
 <h2 align='left'>Como me encontrar</h2> 
