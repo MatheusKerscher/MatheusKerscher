@@ -17,5 +17,5 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/matheus-kersche
 
 ## Estatísticas:
 <div align="center">
-  <img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusKerscher&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusKerscher&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
