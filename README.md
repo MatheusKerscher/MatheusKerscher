@@ -6,21 +6,6 @@
 
 ---
 
-### 📫 Como me encontrar
-
-- 🌐 Acesse meu [link pessoal](https://matheuskerscher.github.io/links/)
-- 💼 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/matheus-kerscher/) para saber mais sobre minha experiência, educação e certificações
-
----
-
-### 📊 Estatísticas
-
-<div align="center">
-  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusKerscher&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
----
-
 ### 🛠️ Tecnologias e Ferramentas
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
@@ -33,6 +18,21 @@
 
 ---
 
+### 📫 Como me encontrar
+
+- 🌐 Acesse meu [portfólio]([https://matheuskerscher.github.io/links/](https://portfolio-theta-orpin-65.vercel.app/))
+- 💼 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/matheus-kerscher/) 
+
+---
+
+### 📊 Estatísticas
+
 <div align="center">
-  Obrigado pela visita! 🚀
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusKerscher&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+---
+
+<div align="center">
+  Obrigado pela visita :)
 </div>
