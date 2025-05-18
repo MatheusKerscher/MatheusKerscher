@@ -2,7 +2,7 @@
 
 ### 🚀 Sobre mim
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas - UFPR  
-- 💻 Buscando oportunidade como desenvolvedor  
+- 💻 Buscando oportunidade como desenvolvedor com React
 
 ---
 
@@ -26,7 +26,7 @@
 
 ### 📫 Como me encontrar
 
-- 🌐 Acesse meu [portfólio]([https://matheuskerscher.github.io/links/](https://portfolio-theta-orpin-65.vercel.app/))
+- 🌐 Acesse meu [portfólio]((https://portfolio-theta-orpin-65.vercel.app/))
 - 💼 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/matheus-kerscher/) 
 
 ---
