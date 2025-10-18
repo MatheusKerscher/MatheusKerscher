@@ -27,14 +27,10 @@
 
 ### 🌐 Onde me encontrar
 
-  <p>
-    <a href="https://portfolio-theta-orpin-65.vercel.app" target="_blank">Portfólio</a> 
-  </p>
+<p>
+  <a href="https://portfolio-theta-orpin-65.vercel.app" target="_blank">Portfólio</a> 
+</p>
 
-  <p>
-    <a href="https://www.linkedin.com/in/matheus-kerscher/" target="_blank">LinkedIn</a>
-  </p>
-
----
-
-<p align="center">Obrigado pela visita :)</p>
+<p>
+  <a href="https://www.linkedin.com/in/matheus-kerscher/" target="_blank">LinkedIn</a>
+</p>
